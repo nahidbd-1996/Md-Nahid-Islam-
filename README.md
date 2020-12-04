@@ -1,21 +1,16 @@
-## Welcome to GitHub My Official (https://www.linkedin.com/in/nahidofficiaLbd)Account. I have experience, knowledge and skills in working in Information and Communication Technology. At present, part of my job is computer and software development. Creating something new in search of creative ways and between finding good and communication technology. I am participating in information and communication technology events on various online platforms around the world. I am happy to gain knowledge and experience in science and ICT. In addition, I work in volunteer organizations at leisure. I help with developmental work in society.
+I'm Md Nahid Islam Google Developers, Technology & Product Experts, Social Media Marketer, Google Maps - Contributor, Photographer, Short Video Filmmaker, Blogger, Skydiver & Traveller, Friendly & Volunteer. I like mapping, connecting, photo uploaded, historical places, reviewing. I try to highlight everything about different things in the local area. I like to discover something new. And I like to share it with everyone. Also I try all the time, everyone will get help by my work.
 
-Computer Science and seeking for full time opportunities.
+Follow Me: Twitter / Instagram / LinkedIn @nahidofficialbd, Thanks. 
 
-Technical Skills:
 
-Programming Languages : Python
+Google Developers, Technology & Products Experts, Co-Founder Humtalk, IT Consultant, Social Media & Digital Marketer 
 
-Technologies: HTML5/CSS3, JavaScript, AJAX, JQuery, Json, Maven, Gradle, Elastic Search, Kibana, Cloudfoundry, Predix Platform, AngularJs, NodeJs, ReactJs
 
-Database: MS SQL Server, Oracle, MySQL, PostgreSQL, MongoDB, Redis
 
-Enterprise Technologies: JSP, Servlet, Asp.Net MVC, Spring MVC, Hibernate
+I work in various social development and non-profit volunteer organizations. I work as a volunteer member. Besides, I lead in various events. I like to travel. My favorite sport is football. I always maintain social connections and friend relationships worldwide. I am interested in learning new subjects, science and creative subjects.
 
-Data Integration: ETL, EAI
 
-Content Delivery Network : Amazon Cloudfront, Google Cloud
-
-Design Patterns : MVC, Singleton, Factory
-
-Content Management System: Wordpress
+https://www.twitter.com/nahidofficialbd 
+https://www.linkedin.com/in/nahidofficialbd 
+https://www.instagram.com/nahidofficialbd
+Thank You.
